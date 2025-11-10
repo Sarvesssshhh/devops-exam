@@ -1,0 +1,10 @@
+# Local Terraform state files
+# These should be in your S3 backend, not in Git!
+terraform.tfstate
+terraform.tfstate.backup
+
+# Directory for downloaded provider plugins
+.terraform/
+
+# Crash logs
+crash.log
